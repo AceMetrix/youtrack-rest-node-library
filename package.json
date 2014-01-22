@@ -1,0 +1,36 @@
+{
+  "name": "youtrack-rest-node-library",
+  "version": "0.0.1",
+  "description": "Node library for accessing the Youtrack 4.0 REST API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "~1.8.1",
+    "q": "~1.0.0",
+    "request": "~2.33.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "chai": "~1.8.1"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/**.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AceMetrix/youtrack-rest-node-library.git"
+  },
+  "keywords": [
+    "youtrack",
+    "jetbrains",
+    "issue"
+  ],
+  "author": "Duncan Wong <baduncaduncan@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AceMetrix/youtrack-rest-node-library/issues"
+  },
+  "homepage": "https://github.com/AceMetrix/youtrack-rest-node-library"
+}
