@@ -1,6 +1,6 @@
 {
   "name": "youtrack-rest-node-library",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Node library for accessing the Youtrack 4.0 REST API",
   "main": "index.js",
   "directories": {
